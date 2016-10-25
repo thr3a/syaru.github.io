@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/post/index.xml</link>
+    <description>Recent content in Post-rsses on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Oct 2016 22:35:27 +0900</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hoge</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/hoge/</link>
+      <pubDate>Tue, 25 Oct 2016 22:35:27 +0900</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/hoge/</guid>
+      <description> まずはフォローから！ シャルロッテbot( @Charlotte__bot )は高機能なbotです。いきなりすべてを把握すると逆に疲れちゃいます。
+まずはフォローして、おいおい可愛がっていきましょう。
+駅名しりとり 全知全能のシャルロッテと駅名でしりとりができます。
+スタート 「駅名しりとり」を含むリプライをすると開始します。
+答え方 「@Charlotte__bot 東京駅」のように答えてあげてください。最後に「駅」が付いてないと反応しません。
+細かいルールは以下になります。
+ 最後が濁音・半濁点は清音でもOK  例) 神戸駅だと「べ」→「へ」なので「平和駅」  最後が小さい文字は大きくなります  例)西別所駅だと「ょ」→「よ」なので「横浜駅」  廃駅、臨時駅、旧名称駅には未対応（今後対応予定）  難読駅名クイズ（ベータ） シャルロッテが出題する駅名クイズに何問答えられるかな？
+スタート 「難読」を含むリプライをすると開始します。
+答え方 「@Charlotte__bot とうきょう駅」のように答えてあげてください。最後に「えき」が付いてないと反応しません。
+備考 ぶっちゃけ全然難読になってません（笑）　ゆくゆくは拡張していく予定です。
+ファイブボンバー（アルファ） シャルロッテの条件に合う駅を挙げていこう！名前の由来は某番組…
+スタート 「ファイブボンバー」を含むリプライをすると開始します。
+答え方 「@Charlotte__bot 東京駅 大阪駅 名古屋駅」のようにスペースで区切って答えてあげてください。全角スペースでも反応はしますが、改行には対応してません。
+その他  駅データは駅データ.jpやWikiPediaを利用しています。  https://www.ekidata.jp/ https://ja.wikipedia.org/  アイコンはびんご氏 許可を頂いております  こんとりびゅーたー  @amanekey  </description>
+    </item>
+    
+    <item>
+      <title>hello hugo</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/2016/10/hello-hugo/</link>
+      <pubDate>Mon, 24 Oct 2016 09:25:36 +0900</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/2016/10/hello-hugo/</guid>
+      <description>hi! hi!</description>
+    </item>
+    
+  </channel>
+</rss>
